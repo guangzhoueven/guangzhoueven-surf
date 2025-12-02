@@ -44,6 +44,7 @@ loadTimeData.data = {
     "isDebugMode": false,
     "isLinuxTuxEnabled": true,
     "isNewShare": true,
+    "shareLink": "https://surf.guangzhoueven.dpdns.org/",
     "is_windows_xbox_sku": "false",
     "keyboardAction": "空格键",
     "language": "zh",
