@@ -8,7 +8,7 @@ loadTimeData.data = {
     "codeCheat": "已激活作弊代码！$1",
     "codeScoring": "此轮计分已关闭。",
     "congrats": "你战胜了$1%的全球玩家！",
-    "endlessBestScore": 1579,
+    "endlessBestScore": 0,
     "endlessDescriptor": "距离",
     "endlessModeTitleInline": "无尽模式:",
     "endlessTitle": "无尽模式",
